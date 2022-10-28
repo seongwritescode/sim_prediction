@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="022cd9ad-4c1d-4bfb-88ae-0075d733ecfd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sim_prediction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sim_prediction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/note_book_sim_predict" beforeDir="false" afterPath="$PROJECT_DIR$/note_book_sim_predict" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/note_book_sim_predict/sim-cb68c3-xgb-final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/note_book_sim_predict/sim-cb68c3-xgb-final.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/note_book_sim_predict/soc-vai-meo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/note_book_sim_predict/soc-vai-meo.ipynb" afterDir="false" />
@@ -35,7 +32,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/workspace/sim_prediction",
+    "last_opened_file_path": "D:/workspace/mbf/mobion",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -48,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666335702199</updated>
       <workItem from="1666335703492" duration="258000" />
+      <workItem from="1666662206607" duration="632000" />
     </task>
     <servers />
   </component>
